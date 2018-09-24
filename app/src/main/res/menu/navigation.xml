@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_match_next"
+        android:icon="@drawable/football_match"
+        android:title="@string/title_match_next" />
+
+    <item
+        android:id="@+id/navigation_match_last"
+        android:icon="@drawable/football_match"
+        android:title="@string/title_match_last" />
+
+    <item
+        android:id="@+id/navigation_club"
+        android:icon="@drawable/football"
+        android:title="@string/title_club" />
+
+
+</menu>
